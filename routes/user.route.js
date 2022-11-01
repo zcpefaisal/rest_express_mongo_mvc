@@ -9,8 +9,8 @@ const {
 } = require("../controllers/user.controller");
 
 // api/users        : GET
-// api/users/       : POST
 // api/users/:id    : GET
+// api/users/       : POST
 // api/users/:id    : PATCH
 // api/users/:id    : Delete
 
